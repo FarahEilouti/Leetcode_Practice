@@ -4,6 +4,8 @@
 
 #### **How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?**
 #### *I didn't work continuously, but each one problem took me time to understand and to try writing the code, and when fixing my problems and getting help it took me like 3 hours in total.*  
+
+#### links and resources: none 
 # -----------------
 ****This code challenges aims to add some points to your Leetcode account.****
 
